@@ -1,0 +1,25 @@
+.box{
+	min-height: 80px;
+	background-color: navy;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.box h1{
+	color: white;
+
+}
+.box2{
+	min-height: 80px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: tomato;
+	text-align: center;
+
+}
+.box2 h1{
+	color: white;
+}
+
+.mh-400{
+	min-height: 400px;
+}
